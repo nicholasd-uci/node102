@@ -2,7 +2,7 @@
 const fs = require('fs')
 
 // fs.readFile is for reading documents
-// fs.readFile('movie.txt', 'utf8', (err, data) => {
+// fs.readFile('pokemon.txt', 'utf8', (err, data) => {
 //     if (err) { console.log(err) }
 //     console.log(data)
 // })
@@ -14,7 +14,7 @@ fs.writeFile('pokemon.txt', 'This is a text file that you can keep track of all 
 })
 
 // fs.appendFile is for adding to a document
-// fs.appendFile('pokemon.txt', 'MewTwo', (err) =>{
+// fs.appendFile('pokemon.txt', 'MewTwo, Charizard, Blastoise, Bulbasaur', (err) =>{
 //     if (err) { console.log(err) }
 //     console.log('Pokemon File Updated')
 // })
