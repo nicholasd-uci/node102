@@ -17,7 +17,7 @@ ES6+ refers to version 6 of the ECMA Script (JavaScript) programming language. E
 
 > This is an example of all three methods being practiced.
 
-![readWrite](./media/readWrite.gif)
+[readWrite](./media/readWrite.gif)
 
 
 ***Figure Two***
@@ -26,7 +26,7 @@ ES6+ refers to version 6 of the ECMA Script (JavaScript) programming language. E
 
 > You will noticed that the append method created a file if there is no file in the explorer matching. 
 
-![movie](./media/movie.gif)
+[movie](./media/movie.gif)
 
 
 ## LINKS
